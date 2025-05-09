@@ -8,7 +8,7 @@ Number plate recognition is a crucial task in traffic surveillance and intellige
 
 ## Project Structure
 
-- `number_plate_recognition.ipynb` – Jupyter Notebook containing code for preprocessing, plate detection, and OCR.
+- `Number_plate_recognition.ipynb` – Jupyter Notebook containing code for preprocessing, plate detection, and OCR.
 - `README.md` – Project documentation.
 
 ## Technologies Used
